@@ -5469,7 +5469,7 @@ body.megamenu-popup-active .mobile-nav__content {
   top: 0;
   left: 0;
   z-index: 1;
-  background-image: url("../images/resources/services-details-sidebar1-1.webp");
+  background-image: url("../images/resources/services-details-sidebar1-1.jpg");
   opacity: 0.1;
   background-repeat: no-repeat;
   background-position: center top;
@@ -5630,7 +5630,7 @@ body.megamenu-popup-active .mobile-nav__content {
   top: 0;
   left: 0;
   z-index: 1;
-  background-image: url("../images/resources/services-details-sidebar1-1.webp");
+  background-image: url("../images/resources/services-details-sidebar1-1.jpg");
   opacity: 0.1;
   background-repeat: no-repeat;
   background-position: center top;
@@ -11823,8 +11823,8 @@ body.megamenu-popup-active .mobile-nav__content {
   width: 100% !important;
   height: 100%;
   object-fit: cover;
-  -webkit-mask-image: url("../images/resources/about-masking1-1.webp");
-  mask-image: url("../images/resources/about-masking1-1.webp");
+  -webkit-mask-image: url("../images/resources/about-masking1-1.jpg");
+  mask-image: url("../images/resources/about-masking1-1.jpg");
   -webkit-mask-position: center center;
   mask-position: center center;
   -webkit-mask-repeat: no-repeat;
