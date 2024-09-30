@@ -10,9 +10,9 @@
 <channel>
 	<title>MS Painting Works: Your Trusted Painting Partner in Udaipur</title>
 	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
-	<link>./../index.html</link>
+	<link>https://mspaintingwork.com/</link>
 	<description></description>
-	<lastBuildDate>Sun, 29 Sep 2024 15:15:40 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 30 Sep 2024 02:31:52 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -23,7 +23,7 @@
 <image>
 	<url>./../wp-content/uploads/2024/09/cropped-favicon-32x32.png</url>
 	<title>MS Painting Works: Your Trusted Painting Partner in Udaipur</title>
-	<link>./../index.html</link>
+	<link>https://mspaintingwork.com/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
